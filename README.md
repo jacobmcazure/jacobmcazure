@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **learning front-end web dev.**
 
-- 🌱 I’m currently learning: **React.js, TailwindCSS, and AWS.**
+- 🌱 I’m currently learning: **node.js and AWS.**
 
 - 🤝 I’m looking for help with: **starting my career 🙂.**
 
