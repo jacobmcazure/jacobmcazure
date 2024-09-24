@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on: **C++ and C# game development.**
 
 - 🌱 I’m currently learning: **React, node.js.**
+  
+- 🤝 I’m looking for help with: **the above 🙂.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jacobmcazure](https://github.com/jacobmcazure)
 
