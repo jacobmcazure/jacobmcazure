@@ -3,9 +3,9 @@
 
 <img align="right" alt="Anime" width="450" src="https://github.com/jacobmcazure/jacobmcazure/assets/65682268/5891469f-37ff-4c50-9b4d-48e2ceb26bfb">
 
-- 🔭 I’m currently working on: **C++ and C# game development.**
+- 🔭 I’m currently working on: **Swift app (to be continued...)**
 
-- 🌱 I’m currently learning: **React, node.js.**
+- 🌱 I’m currently learning: **C/C++ and Linux**
   
 - 🤝 I’m looking for help with: **the above 🙂.**
 
