@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning: **C/C++ and agent development in .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacobmcazure](https://github.com/jacobmcazure)
-
 - 📫 Reach me at **jacobmcewen7@gmail.com**
 
 - ⚡ Fun fact: **I study foreign languages in my free time (currently Japanese and Spanish!).**
