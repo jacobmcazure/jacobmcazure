@@ -3,11 +3,9 @@
 
 <img align="right" alt="Anime" width="450" src="https://github.com/jacobmcazure/jacobmcazure/assets/65682268/5891469f-37ff-4c50-9b4d-48e2ceb26bfb">
 
-- 🔭 I’m currently working on: **Svelte app (to be continued...)**
+- 🔭 I’m currently working on: **Custom PT Analyzer App**
 
 - 🌱 I’m currently learning: **C/C++ and agent development in .NET**
-  
-- 🤝 I’m looking for help with: **the above 🙂.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jacobmcazure](https://github.com/jacobmcazure)
 
