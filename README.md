@@ -3,9 +3,9 @@
 
 <img align="right" alt="Anime" width="450" src="https://github.com/jacobmcazure/jacobmcazure/assets/65682268/5891469f-37ff-4c50-9b4d-48e2ceb26bfb">
 
-- 🔭 I’m currently working on: **Custom PT Analyzer App**
+- 🔭 I’m currently working on: **Space sim and life tracker app. A third secret project also, tbc...**
 
-- 🌱 I’m currently learning: **C/C++ and agent development in .NET**
+- 🌱 I’m currently learning: **C++, Node with AI integrations.**
 
 - 📫 Reach me at **jacobmcewen7@gmail.com**
 
