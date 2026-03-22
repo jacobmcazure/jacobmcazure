@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jacob</h1>
-<h3 align="center">A recent graduate in the United States passionate about Development and Data Science 👨‍💻</h3>
+<h3 align="center">A Full-Stack Dev in the United States passionate about Development and Data Science 👨‍💻</h3>
 
 <img align="right" alt="Anime" width="450" src="https://github.com/jacobmcazure/jacobmcazure/assets/65682268/5891469f-37ff-4c50-9b4d-48e2ceb26bfb">
 
