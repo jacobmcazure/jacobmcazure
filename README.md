@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **Space sim and life tracker app. A third secret project also, tbc...**
 
-- 🌱 I’m currently learning: **C++, Node with AI integrations.**
+- 🌱 I’m currently learning: **C++ and Node js with AI integrations.**
 
 - 📫 Reach me at **jacobmcewen7@gmail.com**
 
