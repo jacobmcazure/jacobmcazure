@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, I'm Jacob</h1>
-<h3 align="center">A Full-Stack Dev in the United States with a goal to level up daily. 👨‍💻</h3>
+<h1 align="center">Jacob McEwen</h1>
+<h3 align="center">A Full-Stack Dev in the US with a goal to level up daily and continuously learn. </h3>
 
 <img align="right" alt="Anime" width="450" src="https://github.com/jacobmcazure/jacobmcazure/assets/65682268/5891469f-37ff-4c50-9b4d-48e2ceb26bfb">
 
-- 🔭 I’m currently working on: **Space sim and an international trade platform.**
+- 🔭 I’m currently working on: **Space sim and chess engine.**
 
-- 🌱 I’m currently learning: **C++ and Node js with AI integrations.**
+- 🌱 I’m currently learning: **C++ 23 and C#**
 
 - 📫 Reach me at **jacobmcewen7@gmail.com**
 
-- ⚡ Fun fact: **I study foreign languages in my free time (currently Japanese and Spanish!).**
+- ⚡ Fun fact: **I enjoy being active and am currently learning guitar!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
